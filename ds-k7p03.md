@@ -1,4 +1,3 @@
 ### Images
 
-![EBNT_TF_3](img/ds-k7p03.png)
-*Figure: ds-k7p03*
+![DS-K7P03](img/ds-k7p03.png)

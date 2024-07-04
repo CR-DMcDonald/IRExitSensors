@@ -1,21 +1,3 @@
-<style>
-  .right-image {
-    float: right;
-    width: 30%; /* Adjust the percentage as needed */
-    margin-left: 10px; /* Adjust the margin as needed */
-  }
-  .caption {
-    text-align: center;
-    font-size: 0.9em;
-    color: #555;
-  }
-</style>
-
-<figure class="right-image">
-  <img src="img/EBNT_TF_3.png" alt="EBNT_TF_3">
-  <figcaption class="caption">The flush variant of the nt100</figcaption>
-</figure>
-
 ### Device Description
 
 TODO
@@ -51,4 +33,3 @@ E.g. follow pattern confirmed as working.
 ### Images
 
 ![EBNT_TF_3](img/ebnt_tf_3.png)
-*Figure: EBNT_TF_3*
