@@ -47,3 +47,8 @@ E.g. follow pattern confirmed as working.
 * 501 μs on
 * 504 μs off
 * 501 μs on
+
+### Images
+
+![EBNT_TF_3](img/ebnt_tf_3.png)
+*Figure: EBNT_TF_3*
