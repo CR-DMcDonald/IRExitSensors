@@ -1,3 +1,3 @@
 ### Images
 
-![DS-K7P03](img/ds-k7p03.png)
+![DS-K7P03](img/DS-K7P03.png)
