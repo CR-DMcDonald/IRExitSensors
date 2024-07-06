@@ -16,6 +16,6 @@ Very common in the UK. The OEM doesnt ever seem to be specified on listing or th
 
 ### Capacitive Devices
 
-These devices look a lot like IR touchless exit buttons, some are even advertised as such, but actually use capacitive which requires touch or has a range of about an inch.
+These devices look a lot like IR touchless exit buttons, some are even advertised as such, but actually use capacitive sensors which are touch or have a range of about an inch.
 
 * [HBK-E02](hbk-e01e02.md)
