@@ -13,3 +13,9 @@ Very common in the UK. The OEM doesnt ever seem to be specified on listing or th
 
 * [EBNT_TF_3](EBNT_TF_3.md)
 * [DS-K7P03](ds-k7p03.md)
+
+### Capacitive Devices
+
+These devices look a lot like IR touchless exit buttons, some are even advertised as such, but actually use capacitive which requires touch or has a range of about an inch.
+
+* [HBK-E02](hbk-e01e02.md)
