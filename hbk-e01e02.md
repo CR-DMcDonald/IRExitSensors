@@ -6,6 +6,10 @@ This is not an IR based device, uses a capacitive sensor. OEM is Shenzhen HOBK E
 
 [R3n5sk1](https://twitter.com/R3n5k1)/[CR-DMcDonald](https://github.com/CR-DMcDonald), tested 1 device. Purchased from Amazon UK in 2024.
 
+### Testing
+
+Briefly exposed it to low power, narrow band 1.25-2.50 Mhz EMI close range with HackRF, no impact.
+
 ### Images
 
 
