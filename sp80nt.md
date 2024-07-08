@@ -16,11 +16,7 @@ Modulation is 11.37 kHz with an on time of about 23.2 mS and an off time of abou
 
 ![](img/sp80nt/SP80NT-pulseview.png)
 
-A pulseview recording of this signal, made using a TSMP58000, can be found in the
-
-[/traces/sp80nt]: /traces/sp80nt
-
-directory. 
+A pulseview recording of this signal, made using a TSMP58000, can be found in the [/traces/sp80nt](/traces/sp80nt) directory. 
 
 ### Images
 
