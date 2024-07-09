@@ -4,6 +4,8 @@ The SP80NT is part of a wider range of touch free sensors from the company [Vide
 
 The range all seem to use the same sensor module which is a round black plastic bezel surrounding the IR filter with a distinctive LED at the 12 o'clock position. 
 
+It is suspected that [pongee.com](https://www.pongee.com/Touchless-Exit-Button) might be the OEM for this sensor but that is not proven.
+
 ### Source
 
 Provided by [en4rab](https://twitter.com/en4rab)/[en4rab](https://github.com/en4rab).
