@@ -19,4 +19,5 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 
 These devices look a lot like IR touchless exit buttons, some are even advertised as such, but actually use capacitive sensors which are touch or have a range of about an inch.
 
-* [HBK-E02](hbk-e01e02.md)
+* [unknown-00](unknown-00.md) no model number and unbrand fake IR sensor
+* [HBK-E02](hbk-e02.md) 
