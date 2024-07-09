@@ -1,6 +1,6 @@
 ### Device Description
 
-This is not an IR based device and instead uses a capacitive sensor. The enclosure has marking showing where the dial to change an IR distance is, perhaps indicating the is another version of this that did use IR.
+This is not an IR based device and instead uses a capacitive sensor. The enclosure has marking showing where the dial to change an IR distance is, perhaps indicating the is another version of this that did use IR. Branded Uhppote.
 
 Enclosure is marked Shenzhen HOBK Electronic Technology Co. Ltd, presumably the OEM.
 
