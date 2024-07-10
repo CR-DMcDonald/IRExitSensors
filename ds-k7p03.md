@@ -10,7 +10,7 @@ Provided by [en4rab](https://twitter.com/en4rab)/[en4rab](https://github.com/en4
 
 ### Signal Pattern
 
-The timing of the signal seemed to vary, with the duration being 336uS and 342uS, but it was always 10000 cycles. 
+The timing of the signal seemed to vary, with the duration being between 336uS and 342uS, but it was always 10000 cycles. 
 
 The frequency was about 29.63 kHz with an on time of 337.5 mS (10000 cycles) and an off time of 366.9 mS.
 
