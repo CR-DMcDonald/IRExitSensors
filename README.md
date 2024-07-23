@@ -22,12 +22,6 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [AMS-EBIR3-RG](amd-ebir3-rg.md)
 * [DT_3L29](dt_3l29.md)
 
-### TODO
-
-Following devices are on the todo list, have been ordered, or are still be tested
-
-* 
-
 ### Capacitive Devices
 
 These devices look a lot like IR touchless exit buttons, some are even advertised as such, but actually use capacitive sensors which are touch or have a range of about an inch.
