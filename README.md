@@ -14,6 +14,7 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [EBNT_TF_3](EBNT_TF_3.md)
 * [DS-K7P03](ds-k7p03.md)
 * [SP80NT](sp80nt.md) Videx NT Series Touch Free Entry & Exit
+* [SMB-I016](smb-i016.md)
 
 ### TODO
 
