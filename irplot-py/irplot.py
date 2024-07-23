@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-#ChatGPT4 written code for plotting IR signals
+# ChatGPT4 written code for plotting IR signals
+# Debugged and fixed by Darren McDonald
+# Usage: python irplot.py input_filename.csv output_filename.png
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -14,14 +16,11 @@ def parse_timing(timing_str):
         raise ValueError("Unknown timing unit in " + timing_str)
 
 def format_timing_value(t):
-    if t * 1000 % 1000 == 0:  # Check if it's a whole number when expressed in microseconds
-        return f"{int(t * 1000)}us"  # Avoid decimal places if it's an exact number of microseconds
-    elif t < 1.0:
-        return f"{t * 1000:.1f}us"  # Show as microseconds if less than 1 millisecond
-    # if a number large than 1ms but has us precision then convert to us
-    else:
-        return f"{t:.3f}ms"
-
+    # Always convert to microseconds for consistency
+    microseconds = round(t * 1000, 1)  # Round to avoid floating-point precision issues
+    if microseconds.is_integer():
+        return f"{int(microseconds)}us"
+    return f"{microseconds:.1f}us"
 
 def read_signal_file(filename):
     with open(filename, 'r') as file:
@@ -75,7 +74,8 @@ def plot_signals(signals, output_file):
         for j in range(2, len(times)):
             duration = times[j] - times[j - 1]
             mid_point = (times[j] + times[j - 1]) / 2
-            label = unique_periods[format_timing_value(duration)]
+            duration_formatted = format_timing_value(duration)
+            label = unique_periods[duration_formatted]
             if signal[j] == 0:
                 ypos = signal[j-1] - 0.1  # Below the line
                 yoffset = label_offset_off
@@ -91,9 +91,6 @@ def plot_signals(signals, output_file):
     plt.tight_layout()
     plt.savefig(output_file, format='png')
     plt.show()
-
-
-
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
