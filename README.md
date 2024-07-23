@@ -1,6 +1,10 @@
 # IRExitSensors
 
-This repo is for interested hardware hackers and red teamers to share timing details for various IR Door Sensors.
+Welcome to the IRExitSensors repo, a hub where hardware hackers and red teamers collaborate on IR sensor technology. This project focuses on infrared sensors and their susceptibility to various signal patterns, with the goal of exploring methods to effectively bypass these security mechanisms. In addition, this repository aims to be a resource on constructing IR emitters (or torches), designed to execute these bypass door sensors. By providing detailed information on the necessary hardware components and assembly instructions, we hope enable professional red teamers and other security researchers to build their own devices tailored to specific security scenarios.
+
+Please note that this repository is currently in the early stages of development. As we continue to gather more information and refine our techniques, expect regular updates and expansions to the content. We encourage contributions and feedback.
+
+## Exit Sensors
 
 ### NT Series
 
@@ -27,3 +31,8 @@ These devices look a lot like IR touchless exit buttons, some are even advertise
 
 * [unknown-00](unknown-00.md) no model number and unbrand fake IR sensor
 * [HBK-E02](hbk-e02.md) 
+
+## Torches and components
+
+* [Flipper Zero](https://docs.flipper.net/infrared) - the flipper can be an easy to use device to show proof of concept, but doesnt have sufficent power for many use cases. This is espically true when there is no direct line of sight or across larger distances.
+* [CHANZON](chanzon.md) - Chanzon produce a series of LED arrays, including some higher power components suitable for using at range.
