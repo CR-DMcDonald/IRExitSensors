@@ -14,8 +14,12 @@ The signal is a series of 15 identical pulses, with an on off time of 618us, 634
 
 ##### irplot.py data
 ```
-37 kHz, 750 nm, AMS-EBIR3-RG, 15, 618us, 634us
+37 kHz, ?? nm, AMS-EBIR3-RG, 15, 618us, 634us
 ```
 
 ##### irplot.py trace
 ![](irplot-py/ams-ebir3-rg.png)
+
+### Spectrum
+
+Not been able to identify the IR signal on this device.
