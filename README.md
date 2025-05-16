@@ -22,6 +22,7 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [AMS-EBIR3-RG](ams-ebir3-rg.md)
 * [DT_3L29](dt_3l29.md)
 * [NT1](nt1.md)
+* [CD-XJK-HW](cd_xjk_hw.md)
 
 ### Capacitive Devices
 
