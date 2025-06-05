@@ -29,6 +29,6 @@ A signal needs to be recieved with around 57uS after transmit. When the device d
 
 ### Images
 
-![NT1-front](img/nt100/NT100.jpg)
+![NT1-front](img/cd_xjk_hw/front.png)
 
 ![NT1-back](img/cd_xjk_hw/back.png)
