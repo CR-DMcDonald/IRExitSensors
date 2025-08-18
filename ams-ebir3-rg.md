@@ -23,3 +23,7 @@ The signal is a series of 15 identical pulses, with an on off time of 618us, 634
 ### Spectrum
 
 Not been able to identify the IR signal on this device.
+
+### Images
+
+![](img/ams-ebir3-rg/ams-ebir3-rg-front.jpg)
