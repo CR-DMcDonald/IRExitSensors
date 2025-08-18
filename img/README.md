@@ -1,6 +1,6 @@
 # Sensor Spotting
 
-While its it not possible to ID a sensor by sight with 100% accuracy it is very helpful to narrow down the possible types. 
+While it is not possible to ID a sensor by sight with 100% accuracy it is very helpful to narrow down the possible types. 
 
 This grid should help you ID the sensor by picture:
 
