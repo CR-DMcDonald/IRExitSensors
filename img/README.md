@@ -69,6 +69,13 @@ This grid should help you ID the sensor by picture:
  </tr>
  <tr>
   <td style='text-align:center;width:50%;'>
+   <figure><img src="k8w-td/k8w-td-front.png" width=80%></br>
+   <figcaption>k8w-td</figcaption>
+   </figure>
+  </td>
+ </tr>
+ <tr>
+  <td style='text-align:center;width:50%;'>
    <figure><img src="hbk-e02/hbk-e02-front.png" width=80%></br>
    <figcaption>hbk-e02</br>
    Not an IR sensor!
