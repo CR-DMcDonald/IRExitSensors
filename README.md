@@ -25,6 +25,7 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [CD-XJK-HW](cd_xjk_hw.md)
 * [XimiirEI01](XimiirEI01.md)
 * [EButton3](EButton3.md)
+* [K8W-TD](k8w-td.md)
 
 ### Capacitive Devices
 
