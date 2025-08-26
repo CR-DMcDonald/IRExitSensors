@@ -20,7 +20,7 @@ This grid should help you ID the sensor by picture:
  <tr>
   <td style='text-align:center;width:50%;'>
    <figure><img src="nt100/NT100.jpg" width=80%></br>
-   <figcaption>NT100 or NT1 or cd_xjk_hw</br>
+   <figcaption>NT100 or NT1 or cd_xjc_hw</br>
    The shell seems to be used by several sensors
    </figcaption>
    </figure>
