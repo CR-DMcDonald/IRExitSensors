@@ -12,12 +12,12 @@ Just like the NT200 this sensor can be opened with a static pattern, but timing 
 
 Four correctly aligned messages are needed to open the device. Each message is composed of three pulses with a carrier of ~34000Khz. On time is usually 417uS with off time varying but generally being 492uS. A 19ms gap between messages is used by the device. In order to open it you will need to use a shorter value to force signal alignment.
 
-A pulseview recording made using a logic analyser connected to the TX/RX lines of the device and a TSMP98000 receiving the infrared signal can be found in the [/sigrok/cd_xjc_hw](/sigrok/nt1) directory. 
+A pulseview recording made using a logic analyser connected to the TX/RX lines of the device and a TSMP98000 receiving the infrared signal can be found in the [/sigrok/cd_xjc_hw](/sigrok/cd_xjc_hw) directory. 
 
-A signal needs to be recieved with around 57uS after transmit. When the device doesn't detect a reflect it will stop sending the rest of the code. As a result looking at purely the infrared results the messages of 1,2 and 3 pulses can appear like a rolling code. These pulses actually mean:
+A signal needs to be received with around 57uS after transmit. When the device doesn't detect a reflect it will stop sending the rest of the code. As a result looking at purely the infrared results the messages of 1,2 and 3 pulses can appear like a rolling code. These pulses actually mean:
 * A single pulse tells you a reflected response was not observed in the right window
-* Two pulses mean a signal was receieved but was out of alignment
-* The signal was successfully recieved and should be aligned
+* Two pulses mean a signal was received but was out of alignment
+* The signal was successfully received and should be aligned
 
 ##### irplot.py data
 ```
