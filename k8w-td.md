@@ -1,6 +1,6 @@
 ### Device Description
 
-Another cheap device off AliExpress with a plastic shell. 
+A small round sensor about 25mm diameter with a polished bezel. The face is a single plastic disc with a logo of a hand with three lines to its left and the text "No Touch". The example purchased was mounted in a stainless plate but it is also available as a panel mount without a plate too. 
 
 ### Source
 
