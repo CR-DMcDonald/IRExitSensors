@@ -12,7 +12,7 @@ Provided by [en4rab](https://twitter.com/en4rab)/[en4rab](https://github.com/en4
 
 E.g. follow pattern confirmed as working.
 
-* 1010 μs on
+* 5010 μs on
 * 504 μs off
 * 1002 μs on
 * 504 μs off
