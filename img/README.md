@@ -39,7 +39,9 @@ This grid should help you ID the sensor by picture:
   </td>
   <td style='text-align:center;width:50%;'>
    <figure><img src="ebnt_tf_3/ebnt_tf_3-front.jpg" width=80%></br>
-   <figcaption>ebnt_tf_3</figcaption>
+   <figcaption>ebnt_tf_3 or OP12-wifi</br>
+   OP12 is a Tuya wifi version but the IR signal is the same
+   </figcaption>
    </figure>
   </td>
  </tr>
