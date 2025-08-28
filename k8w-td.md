@@ -10,7 +10,7 @@ Provided by [@en4rab](https://twitter.com/en4rab). Purchased from AliExpress in 
 
 The K8W-TD has a very simple fixed pattern, but it is very fussy about timing. Even with the right delays it can take 30s or more for the patterns to align correctly.
 
-Four correctly aligned pulses are needed to open the device. Each pulses has a carrier of ~39000Khz.  On time is 2564 uS with off time being 51687 uS.  
+Four correctly aligned pulses are needed to open the device. Each pulses has a carrier of ~39000Khz.  On time is 2556 uS with off time being 51615 uS.  
 
 ![K8W-TD-pulseview](img/k8w-td/k8w-td-pulseview.png)
 
