@@ -10,7 +10,7 @@ Provided by [@therealshodan](https://twitter.com/therealshodan)/[i-am-shodan](ht
 
 The modulation frequency was about 15Khz with on time of 976 uS and an off time of 1022 uS. A messages is composed of 49 pulses and there is a 101ms gap between messages.
 
-A pulseview recording made using a TSMP98000 of this signal can be found in the [/sigrok/nt10](/sigrok/nt1) directory. 
+A pulseview recording made using a TSMP98000 of this signal can be found in the [/sigrok/nt1](/sigrok/nt1) directory. 
 
 ##### irplot.py data
 ```

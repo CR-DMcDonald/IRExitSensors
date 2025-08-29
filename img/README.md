@@ -20,7 +20,7 @@ This grid should help you ID the sensor by picture:
  <tr>
   <td style='text-align:center;width:50%;'>
    <figure><img src="nt100/NT100.jpg" width=80%></br>
-   <figcaption>NT100 or NT1 or cd_xjk_hw</br>
+   <figcaption>NT100 or NT1 or cd_xjc_hw</br>
    The shell seems to be used by several sensors
    </figcaption>
    </figure>
@@ -39,7 +39,9 @@ This grid should help you ID the sensor by picture:
   </td>
   <td style='text-align:center;width:50%;'>
    <figure><img src="ebnt_tf_3/ebnt_tf_3-front.jpg" width=80%></br>
-   <figcaption>ebnt_tf_3</figcaption>
+   <figcaption>ebnt_tf_3 or OP12-wifi</br>
+   OP12 is a Tuya wifi version but the IR signal is the same
+   </figcaption>
    </figure>
   </td>
  </tr>
@@ -64,6 +66,13 @@ This grid should help you ID the sensor by picture:
   <td style='text-align:center;width:50%;'>
    <figure><img src="smb-i016/smb-i016-front.jpg" width=80%></br>
    <figcaption>smb-i016</figcaption>
+   </figure>
+  </td>
+ </tr>
+ <tr>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="k8w-td/k8w-td-front.png" width=80%></br>
+   <figcaption>k8w-td</figcaption>
    </figure>
   </td>
  </tr>

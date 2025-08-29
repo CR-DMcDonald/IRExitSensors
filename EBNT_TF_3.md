@@ -1,6 +1,7 @@
 ### Device Description
 
 An all plastic exit sensor, there is no outer bezel just an illuminated ring around the large IR filter with the text "NO TOUCH" printed on it.
+An updated version with TUYA wifi is also available sold as the OP12 or OP13 although they have a wifi module they still use the same IR signal.
 
 ### Source
 
@@ -12,7 +13,7 @@ Provided by [en4rab](https://twitter.com/en4rab)/[en4rab](https://github.com/en4
 
 E.g. follow pattern confirmed as working.
 
-* 1010 μs on
+* 5010 μs on
 * 504 μs off
 * 1002 μs on
 * 504 μs off

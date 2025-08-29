@@ -10,7 +10,7 @@ Provided by [@therealshodan](https://twitter.com/therealshodan)/[i-am-shodan](ht
 
 Signal is a simple repeating pattern with a spacing of 51300uS. 
 
-A pulseview recording made using a logic analyser connected to the TX/RX lines of the device and a TSMP98000 recieving the infrared signal can be found in the [/salae/XimiirEI01](/salae/XimiirEI01) directory.
+A pulseview recording made using a logic analyser connected to the TX/RX lines of the device and a TSMP98000 recieving the infrared signal can be found in the [/sigrok/XimiirEI01](/sigrok/XimiirEI01) directory.
 
 ##### irplot.py data
 ```
