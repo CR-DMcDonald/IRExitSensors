@@ -1,7 +1,7 @@
 ### Device Description
 
-Another cheap device off AliExpress/eBay with a thin steel shell. Probably made by [Ximi Technology](http://www.ximitechnology.com/index_en.html)
-The same signal pattern seem to also be used by the [EBNT_TF_3](EBNT_TF_3.md)
+Another cheap device off AliExpress/eBay with a thin steel shell. Probably made by [Ximi Technology](http://www.ximitechnology.com/index_en.html)  
+The same signal pattern seems to also be used by the [EBNT_TF_3](EBNT_TF_3.md)
 
 ### Source
 
