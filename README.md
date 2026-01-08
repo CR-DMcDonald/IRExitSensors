@@ -28,6 +28,7 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [K8W-TD](k8w-td.md)
 * [K4](k4.md) NT1 variant
 * [K10](k10.md) NT1 variant
+* [XM-EI01B](XM-EI01B-SW.md) NT1 variant
 
 ### Capacitive Devices
 
