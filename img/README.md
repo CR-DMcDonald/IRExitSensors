@@ -76,7 +76,7 @@ This grid should help you ID the sensor by picture:
    </figure>
   </td>
   <td style='text-align:center;width:50%;'>
-   <figure><img src="k4/k4_front.png" width=80%></br>
+   <figure><img src="k4/k4_front.jpg" width=80%></br>
    <figcaption>k4</figcaption>
    </figure>
   </td>
