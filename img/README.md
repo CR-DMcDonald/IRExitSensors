@@ -83,7 +83,7 @@ This grid should help you ID the sensor by picture:
  </tr>
  <tr>
   <td style='text-align:center;width:50%;'>
-   <figure><img src="k10/10_front.jpg" width=80%></br>
+   <figure><img src="k10/k10_front.jpg" width=80%></br>
    <figcaption>k10</figcaption>
    </figure>
  </tr>
