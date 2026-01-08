@@ -86,6 +86,10 @@ This grid should help you ID the sensor by picture:
    <figure><img src="k10/k10_front.jpg" width=80%></br>
    <figcaption>k10</figcaption>
    </figure>
+   <td style='text-align:center;width:50%;'>
+   <figure><img src="XM-EI01B/XM-EI01B_front.jpg" width=80%></br>
+   <figcaption>XM-EI01B</figcaption>
+   </figure>
  </tr>
  <tr>
   <td style='text-align:center;width:50%;'>
