@@ -75,6 +75,11 @@ This grid should help you ID the sensor by picture:
    <figcaption>k8w-td</figcaption>
    </figure>
   </td>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="k4/k4_front.png" width=80%></br>
+   <figcaption>k4</figcaption>
+   </figure>
+  </td>
  </tr>
  <tr>
   <td style='text-align:center;width:50%;'>
