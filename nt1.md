@@ -14,7 +14,7 @@ A pulseview recording made using a TSMP98000 of this signal can be found in the 
 
 ##### irplot.py data
 ```
-15 kHz, 750 nm, NT1, 49, 976us, 1022us
+38 kHz, 940 nm, NT1, 49, 976us, 1022us
 ```
 
 ##### irplot.py trace
