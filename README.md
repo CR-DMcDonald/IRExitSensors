@@ -29,15 +29,16 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [K4](k4.md) NT1 variant
 * [K10](k10.md) NT1 variant
 * [XM-EI01B](XM-EI01B-SW.md) NT1 variant
+* [YS410](ys410.md)
 
 ### Capacitive Devices
 
 These devices look a lot like IR touchless exit buttons, some are even advertised as such, but actually use capacitive sensors which are touch or have a range of about an inch.
 
-* [unknown-00](unknown-00.md) no model number and unbrand fake IR sensor
+* [unknown-00](unknown-00.md) no model number and unbranded fake IR sensor
 * [HBK-E02](hbk-e02.md) 
 
 ## Torches and components
 
-* [Flipper Zero](https://docs.flipper.net/infrared) - the flipper can be an easy to use device to show proof of concept, but doesnt have sufficent power for many use cases. This is espically true when there is no direct line of sight or across larger distances.
+* [Flipper Zero](https://docs.flipper.net/infrared) - the flipper can be an easy to use device to show proof of concept, but doesn’t have sufficient power for many use cases. This is especially true when there is no direct line of sight or across larger distances.
 * [CHANZON](chanzon.md) - Chanzon produce a series of LED arrays, including some higher power components suitable for using at range.
