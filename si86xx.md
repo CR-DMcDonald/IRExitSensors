@@ -1,6 +1,6 @@
 ### Device Description
 
-This was listed on AliExpress as SI865C however the PCB has a silkscreen marking 8601PI. Based on the listing it seems to be in a variety of styles, the purchased example was a black plastic rounded square case with a silver brushed aluminium inlaid fascia. The centre a round black logo are with a picture of a hand swiping right that also serves as the status led. The IR send and receive is done through two small round windows at the bottom of the black logo. It also has the text No Touch.  
+This was listed on AliExpress as SI865C however the PCB has a silkscreen marking 8601PI. Based on the listing it seems to be in a variety of styles, the purchased example was a black plastic rounded square case with a silver brushed aluminium inlaid fascia. The centre is a round black logo with a picture of a hand swiping right that also serves as the status led. The IR send and receive is done through two small round windows at the bottom of the black logo. It also has the text No Touch.  
 It seems to be sold under a variety of part numbers with variants having either silver or black brushed aluminium inlay, round or square logo and a swiping hand or person walking through door logo.  
 While not tested it is assumes the variants are cosmetic and the signal will likely be the same.
 
