@@ -15,7 +15,7 @@ A pulseview recording made using a logic analyser connected to the TX/RX lines o
 
 ##### irplot.py data
 ```
-30kHz, 750 nm, XimiirEI01, 1, 4964us, 553us, 950us, 558us, 451us, 551us, 451us, 552us, 452us, 551us, 450us, 552us, 946us, 558us, 451us, 552us, 454us, 549us, 4963us, 554us, 946us, 558us, 450us, 552us, 450us, 553us, 451us, 551us, 451us, 552us, 947us, 558us, 450us, 552us, 452us
+38kHz, 940 nm, XimiirEI01, 1, 4964us, 553us, 950us, 558us, 451us, 551us, 451us, 552us, 452us, 551us, 450us, 552us, 946us, 558us, 451us, 552us, 454us, 549us, 4963us, 554us, 946us, 558us, 450us, 552us, 450us, 553us, 451us, 551us, 451us, 552us, 947us, 558us, 450us, 552us, 452us
 ```
 
 ##### irplot.py trace
