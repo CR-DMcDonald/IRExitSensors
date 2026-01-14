@@ -13,7 +13,7 @@ A pulseview recording made using a logic analyser connected to the LED can be fo
 
 ##### irplot.py data
 ```
-38kHz, 950 nm, ebutton3, 1, 4138us, 46498us
+38.46kHz, 940 nm, ebutton3, 1, 4139us, 46498us
 ```
 
 ##### irplot.py trace
