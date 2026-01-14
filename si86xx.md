@@ -18,7 +18,7 @@ Each burst seems to be 100 pulses long. ![](img/si86xx/8601pi-pulseview-on-time.
 
 A pulseview recording of this signal can be found in the [/sigrok/si86xx](/sigrok/si86xx) directory. 
 
-Testing seemed to suggest that 4 matches are required to trigger the door and there is an interference lockout. Simply recording and playing back the signal with a flipper zero would not open the device.
+Testing seemed to suggest that 4 matches are required to trigger the door and there is an interference lockout. Simply recording and playing back the signal with a flipper zero would not open the device. This seems to be the same pattern that the K8W-TD uses.
 
 ##### irplot.py data
 ```

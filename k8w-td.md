@@ -14,7 +14,8 @@ Four correctly aligned pulses are needed to open the device. Each pulses has a c
 
 ![K8W-TD-pulseview](img/k8w-td/k8w-td-pulseview.png)
 
-The sensor seems to check for the absence of a signal in the off time and during testing was seen to ignore a match because of noise and need 5 matches before it opened. 
+The sensor seems to check for the absence of a signal in the off time and during testing was seen to ignore a match because of noise and need 5 matches before it opened.  
+This seem to be the same signal as the SI86xx sensors.
 
 A pulseview recording made using a logic analyser connected to the TX/RX lines of the device can be found in the [/sigrok/k8w-td](sigrok/k8w-td) directory. 
 
