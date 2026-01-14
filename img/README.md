@@ -96,6 +96,10 @@ This grid should help you ID the sensor by picture:
    <figure><img src="ys410/ys410_front.jpg" width=80%></br>
    <figcaption>ys410</figcaption>
    </figure>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="si86xx/8601pi.jpg" width=80%></br>
+   <figcaption>SI86xx</figcaption>
+   </figure>
  </tr>
  <tr>
   <td style='text-align:center;width:50%;'>
