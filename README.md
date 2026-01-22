@@ -31,7 +31,7 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [XM-EI01B](XM-EI01B-SW.md) NT1 variant
 * [YS410](ys410.md)
 * [SI86xx](si86xx.md)
-
+* [EI20](ei20.md)
 
 ### Capacitive Devices
 
