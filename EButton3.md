@@ -9,10 +9,11 @@ Provided by [@therealshodan](https://twitter.com/therealshodan)/[i-am-shodan](ht
 ### Signal Pattern
 
 Simple pulse, triggers on pretty much anything and only really usable with the sensitivity turn to min.
+A pulseview recording made using a logic analyser connected to the LED can be found in the [/sigrok/ebutton3](/sigrok/ebutton3) directory.
 
 ##### irplot.py data
 ```
-30kHz, 750 nm, XimiirEI01, 1, 2271us, 108664us
+38.46kHz, 940 nm, ebutton3, 1, 4139us, 46498us
 ```
 
 ##### irplot.py trace
@@ -21,3 +22,4 @@ Simple pulse, triggers on pretty much anything and only really usable with the s
 ### Images
 
 ![Ebutton3-front](img/ebutton3/front.png)
+![Ebutton3-back](img/ebutton3/back.png)

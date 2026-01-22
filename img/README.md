@@ -75,6 +75,38 @@ This grid should help you ID the sensor by picture:
    <figcaption>k8w-td</figcaption>
    </figure>
   </td>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="k4/k4_front.jpg" width=80%></br>
+   <figcaption>k4</figcaption>
+   </figure>
+  </td>
+ </tr>
+ <tr>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="k10/k10_front.jpg" width=80%></br>
+   <figcaption>k10</figcaption>
+   </figure>
+   <td style='text-align:center;width:50%;'>
+   <figure><img src="XM-EI01B/XM-EI01B_front.jpg" width=80%></br>
+   <figcaption>XM-EI01B</figcaption>
+   </figure>
+ </tr>
+ <tr>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="ys410/ys410_front.jpg" width=80%></br>
+   <figcaption>ys410</figcaption>
+   </figure>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="si86xx/8601pi.jpg" width=80%></br>
+   <figcaption>SI86xx</figcaption>
+   </figure>
+ </tr>
+ <tr>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="ei20/ei20-front.jpg" width=80%></br>
+   <figcaption>EI20</figcaption>
+   </figure>
+
  </tr>
  <tr>
   <td style='text-align:center;width:50%;'>
