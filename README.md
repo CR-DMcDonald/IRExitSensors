@@ -4,6 +4,10 @@ Welcome to the IRExitSensors repo, a hub where hardware hackers and red teamers 
 
 Please note that this repository is currently in the early stages of development. As we continue to gather more information and refine our techniques, expect regular updates and expansions to the content. We encourage contributions and feedback.
 
+## Identifying a sensor
+
+* [Sensor Spotting](img/README.md) - a picture grid to help narrow down which sensor you are looking at
+
 ## Exit Sensors
 
 ### NT Series
@@ -22,7 +26,7 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [SMB-I016](smb-i016.md)
 * [AMS-EBIR3-RG](ams-ebir3-rg.md)
 * [DT_3L29](dt_3l29.md)
-* [CD-XJK-HW](cd_xjk_hw.md)
+* [CD-XJC-HW](cd_xjc_hw.md)
 * [XimiirEI01](XimiirEI01.md)
 * [EButton3](EButton3.md)
 * [K8W-TD](k8w-td.md)
@@ -32,6 +36,9 @@ Very common in the UK. The OEM doesn't ever seem to be specified on listing or t
 * [YS410](ys410.md)
 * [SI86xx](si86xx.md)
 * [EI20](ei20.md)
+* [RTE-IRF](RTE-IRF.md) CDVI IRF sensor
+* [RTE-WIR](RTE-WIR.md) CDVI WIR sensor
+* [HBK-E01](hbk-e01.md) IR version of the capacitive HBK-E02
 
 ### Capacitive Devices
 
