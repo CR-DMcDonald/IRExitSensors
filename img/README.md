@@ -106,7 +106,22 @@ This grid should help you ID the sensor by picture:
    <figure><img src="ei20/ei20-front.jpg" width=80%></br>
    <figcaption>EI20</figcaption>
    </figure>
-
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="hbk-e01/hbk-e01-front.jpg" width=80%></br>
+   <figcaption>hbk-e01</br>
+   Almost identical to the hbk-e02 but with 2 windows for IR light
+   </figcaption>
+   </figure>
+ </tr>
+ <tr>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="RTE-WIR/RTE-WIR-front.png" width=80%></br>
+   <figcaption>CDVI RTE-WIR</figcaption>
+   </figure>
+  <td style='text-align:center;width:50%;'>
+   <figure><img src="RTE-IRF/RTE-IRF-front.png" width=80%></br>
+   <figcaption>CDVI RTE-IRF</figcaption>
+   </figure>
  </tr>
  <tr>
   <td style='text-align:center;width:50%;'>
